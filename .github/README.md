@@ -8,7 +8,8 @@
 * Written from scratch, making it stable and less crashes with attractive thumbnails.
 * Loop, Seek, Shuffle, Specific Skip, Playlists etc support
 * Multi-Language support
-
+<a href="https://heroku.com/deploy?template=https://github.com/acoteam2021/yukki"><img src="https://www.herokucdn.com/deploy/button.svg" alt="Deploy on Heroku"></a></br></br>
+</p>
 
 # ⚡️ Getting Started [[Documentation](https://notreallyshikhar.gitbook.io/yukkimusicbot/)]
 
